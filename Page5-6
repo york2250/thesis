@@ -3,3 +3,6 @@ $gitstatus
 newfile:process.sh
 analyze.R
 clean.py
+$ git add clean.py analyze.R $ git commit -m
+[master (root-commit) 660213b]
+git log
